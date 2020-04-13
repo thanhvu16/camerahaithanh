@@ -16,6 +16,9 @@ body{
 #logo h1{	
 	line-height: 98px;
 }
+.dong1{
+	-webkit-line-clamp: 1;
+}
 #search input{
 	margin-top: 30px;
 	float: left;
